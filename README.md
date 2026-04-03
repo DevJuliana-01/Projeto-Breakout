@@ -25,6 +25,7 @@ Clicando na tecla 'b' podemos iniciar o jogo
 Após a quebra de todos os blocos você ganha ;)
 ![Jogabilidade](imgs/YouWin.png)
 
-Após perde todas a vidas você perde :(
+
+Após perde todos os corações você perde o jogo :(
 ![Jogabilidade](imgs/GameOver.png)
 
